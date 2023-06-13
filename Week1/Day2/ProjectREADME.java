@@ -28,7 +28,7 @@ HERE IS THE CODE*/
 
 import java.util.Scanner;
 
-public class EmailPasswordCheck {
+public class ProjectREADME {
     public static void main(String[] args) {
         // Step 1: Store a pre-stored email and password
         String storedEmail = "example@example.com";
