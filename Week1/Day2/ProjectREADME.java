@@ -22,9 +22,9 @@ String userPassword="234";
 5. check if both emails match then goto step 6 else goto step 7
 6. check if both passwords match then print success and goto step 8 else goto step 7
 7. print wrong credentials
-8. Exit Program
+8. Exit Program */
 
-HERE IS THE CODE*/
+//HERE IS THE CODE IN JAVA
 
 import java.util.Scanner;
 
@@ -65,3 +65,30 @@ public class ProjectREADME {
         }
     }
 }
+
+//HERE IS THE CODE IN PYTHON FOR REFERANCE 
+
+/*# Step 1: Store a pre-stored email and password
+stored_email = "example@example.com"
+stored_password = "password123"
+
+# Step 2: Store a second email entered by the user for login
+entered_email = input("Enter your email: ")
+
+# Step 3: Match both emails
+if entered_email == stored_email:
+    # Step 4: Check if both passwords match
+    entered_password = input("Enter your password: ")
+    if entered_password == stored_password:
+        # Step 5: Print success
+        print("Login successful.")
+        # Step 6: Continue with further steps if needed
+    else:
+        # Step 7: Print wrong credentials
+        print("Wrong password.")
+else:
+    # Step 7: Print wrong credentials
+    print("Wrong email.")
+
+# Step 8: Exit the program
+*/
