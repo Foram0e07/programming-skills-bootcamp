@@ -1,8 +1,10 @@
-Step 1: Declare variables for the width and height of the rectangle
+/*Step 1: Declare variables for the width and height of the rectangle
 Step 2: Store the width of the rectangle
 Step 3: Store the height of the rectangle
 Step 4: Calculate the area of the rectangle by multiplying the width and height, and store the answer in variable named ans
 Step 5: Display the area of the rectangle to the user, using ans variable
+
+HERE IS THE CODE*/
 
 import java.util.Scanner;
 
