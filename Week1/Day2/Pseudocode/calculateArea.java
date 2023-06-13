@@ -8,7 +8,7 @@ HERE IS THE CODE*/
 
 import java.util.Scanner;
 
-public class RectangleArea {
+public class calculateArea {
     public static void main(String[] args) {
         // Step 1: Declare variables for the width and height of the rectangle
         double width, height;
