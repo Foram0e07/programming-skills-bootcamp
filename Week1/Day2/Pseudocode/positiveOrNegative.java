@@ -1,4 +1,4 @@
-Step 1: Declare a variable to store number
+/*Step 1: Declare a variable to store number
 Step 2: Store a number
 Step 3: Check if the number is greater than zero then goto step 4
 Step 4: Display a message to the user indicating that the number is positive
@@ -8,10 +8,11 @@ Step 7: If the number is not positive or negative, it must be zero
 Step 8: Display a message to the user indicating that the number is zero
 Step 9: Exit Program
 
+HERE IS THE CODE*/
 
 import java.util.Scanner;
 
-public class NumberCheck {
+public class positiveOrNegative {
     public static void main(String[] args) {
         // Step 1: Declare a variable to store the number
         int number;
